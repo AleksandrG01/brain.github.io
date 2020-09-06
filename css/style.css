@@ -638,6 +638,7 @@ body._lock {
 }
 
 .first {
+  content-visibility: auto;
   background: #002E44;
   position: relative;
 }
@@ -799,6 +800,7 @@ body._lock {
 }
 
 .about {
+  content-visibility: auto;
   background: #003F5D;
   -webkit-box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.12);
           box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.12);
@@ -919,6 +921,7 @@ body._lock {
 }
 
 .about2 {
+  content-visibility: auto;
   background: #002E44;
   position: relative;
 }
@@ -1038,6 +1041,7 @@ body._lock {
 }
 
 .ball {
+  content-visibility: auto;
   background: #003F5E;
   -webkit-box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.12);
           box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.12);
@@ -1074,6 +1078,7 @@ body._lock {
 }
 
 .howWork {
+  content-visibility: auto;
   background: #002E44;
   color: #FFFFFF;
 }
